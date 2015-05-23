@@ -23,7 +23,7 @@
   
   <servlet-mapping>
     <servlet-name>hello</servlet-name>
-    <url-pattern>/web/hello</url-pattern>
+    <url-pattern>/hello</url-pattern>
   </servlet-mapping>
   
   <!-- Default page to serve -->
